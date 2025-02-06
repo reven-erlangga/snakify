@@ -16,7 +16,7 @@
         "snake-case",
         "camelcase"
     ],
-    "author": "Your Name",
+    "author": "Reven Ferlian",
     "license": "MIT",
     "peerDependencies": {
         "@nestjs/common": "^10.0.0",
